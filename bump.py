@@ -98,3 +98,7 @@ def main():
 if __name__ == "__main__":
     log("🚀 SlyBump lancé")
     main()
+
+
+
+#👋 Ajout par khazvek pour le badge "Pair Extraordinaire"
